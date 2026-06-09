@@ -1,0 +1,4 @@
+# SmartBot - Rule Based Chatbot
+# Built-in Python Modules Used
+# No external packages required.
+# Project runs using standard Python installation.
